@@ -1,0 +1,14 @@
+C:\Users\asperera\source\repos\template_cs\template_cs\bin\Debug\netcoreapp3.1\template_cs.exe
+C:\Users\asperera\source\repos\template_cs\template_cs\bin\Debug\netcoreapp3.1\template_cs.deps.json
+C:\Users\asperera\source\repos\template_cs\template_cs\bin\Debug\netcoreapp3.1\template_cs.runtimeconfig.json
+C:\Users\asperera\source\repos\template_cs\template_cs\bin\Debug\netcoreapp3.1\template_cs.runtimeconfig.dev.json
+C:\Users\asperera\source\repos\template_cs\template_cs\bin\Debug\netcoreapp3.1\template_cs.dll
+C:\Users\asperera\source\repos\template_cs\template_cs\bin\Debug\netcoreapp3.1\template_cs.pdb
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.csproj.AssemblyReference.cache
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.AssemblyInfoInputs.cache
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.AssemblyInfo.cs
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.csproj.CoreCompileInputs.cache
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.dll
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.pdb
+C:\Users\asperera\source\repos\template_cs\template_cs\obj\Debug\netcoreapp3.1\template_cs.genruntimeconfig.cache
