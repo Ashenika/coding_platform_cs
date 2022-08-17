@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\template_cs.csproj",
+      "projectUniqueName": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\template_cs.csproj",
       "projectName": "template_cs",
-      "projectPath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\template_cs.csproj",
+      "projectPath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\template_cs.csproj",
       "packagesPath": "C:\\Users\\asperera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\obj\\",
+      "outputPath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asperera\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2xVtoJBVuE/QYPjs3ys1XSykHJKbPaa2pFET0wb2p4FD0rYYP5L6NCnpXi6f8+2MLbE32rIg5GGw5iIkZJJ2IQ==",
+  "dgSpecHash": "I2dOKSdeVbCt/SjdNeq4kecgejbUhyeUHvkcT3h+plKgOkj/Ta5yq0nztSVdynedocpxceAg8tOpcGEAX0/Aig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs_test\\template_cs_test.csproj",
+  "projectFilePath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs_test\\template_cs_test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asperera\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\asperera\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
