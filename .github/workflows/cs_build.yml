@@ -34,11 +34,6 @@ jobs:
       - name: Setup MSBuild path
         uses: microsoft/setup-msbuild@v1
         id: setup_msbuild
-        
-      - name: Run MSBuild
-        id: run_msbuild
-        working-directory: ${{ github.workspace }}
-        run: msbuild .\template_cs.sln
 
        # Execute all unit tests in the solution
       - name: Execute unit tests
