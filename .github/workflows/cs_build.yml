@@ -32,7 +32,7 @@ jobs:
       - name: Run MSBuild
         id: run_msbuild
         working-directory: ${{ github.workspace }}
-        run: msbuild .\template_cpp.sln
+        run: msbuild .\template_cs.sln
         
       - name: Setup VSTest path
         uses: darenm/Setup-VSTest@v1
