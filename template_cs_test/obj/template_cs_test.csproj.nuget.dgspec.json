@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs_test\\template_cs_test.csproj": {}
+    "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs_test\\template_cs_test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\template_cs.csproj": {
+    "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\template_cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\template_cs.csproj",
+        "projectUniqueName": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\template_cs.csproj",
         "projectName": "template_cs",
-        "projectPath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\template_cs.csproj",
+        "projectPath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\template_cs.csproj",
         "packagesPath": "C:\\Users\\asperera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\obj\\",
+        "outputPath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asperera\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs_test\\template_cs_test.csproj": {
+    "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs_test\\template_cs_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs_test\\template_cs_test.csproj",
+        "projectUniqueName": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs_test\\template_cs_test.csproj",
         "projectName": "template_cs_test",
-        "projectPath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs_test\\template_cs_test.csproj",
+        "projectPath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs_test\\template_cs_test.csproj",
         "packagesPath": "C:\\Users\\asperera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs_test\\obj\\",
+        "outputPath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs_test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asperera\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,8 +80,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\template_cs.csproj": {
-                "projectPath": "C:\\Users\\asperera\\source\\repos\\template_cs\\template_cs\\template_cs.csproj"
+              "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\template_cs.csproj": {
+                "projectPath": "C:\\Users\\asperera\\source\\repos\\coding_platform_cs\\template_cs\\template_cs.csproj"
               }
             }
           }
