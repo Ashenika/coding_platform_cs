@@ -1,7 +1,7 @@
 # This workflow sets up and runs MSBuild and VSTest
 # to build and test a Visual Studio solution.
 
-name: Build and Unit Test with MS Visual C++ Unit Test Framework
+name: Build and Unit Test for C#
 
 on:
   push:
@@ -18,13 +18,19 @@ jobs:
 
   run-msbuild:
     runs-on: windows-latest
-    name: Run MSBuild and VSTest
+    name: Run MSBuild and dotnet test
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v2.1.0
         id: checkout_code
         
+    # Install the .NET Core workload
+      - name: Install .NET Core
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: 6.0.x
+          
       - name: Setup MSBuild path
         uses: microsoft/setup-msbuild@v1
         id: setup_msbuild
@@ -33,10 +39,6 @@ jobs:
         id: run_msbuild
         working-directory: ${{ github.workspace }}
         run: msbuild .\template_cs.sln
-        
-      - name: Setup VSTest path
-        uses: darenm/Setup-VSTest@v1
-        id: setup_vstest
 
        # Execute all unit tests in the solution
       - name: Execute unit tests
