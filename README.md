@@ -1,4 +1,4 @@
-# coding_platform_cs
+# coding_platform_cs C# Template
 
 **Note:** This project is created using Visual Studio 2019 with .NET SDK 3.1. 
 
